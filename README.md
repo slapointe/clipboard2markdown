@@ -14,7 +14,7 @@ Demo
 
 ### Interactive
 
-<http://euangoddard.github.io/clipboard2markdown/>
+<http://slapointe.github.io/clipboard2markdown/>
 
 ### Video
 
@@ -40,7 +40,7 @@ One can paste multiple times. This overwrites the previous conversion.
 
 About
 -----
-
+Credits goes to:
 [clipboard2markdown](https://github.com/euangoddard/clipboard2markdown)
 was created by [Euan Goddard](https://github.com/euangoddard).
 The original version used
